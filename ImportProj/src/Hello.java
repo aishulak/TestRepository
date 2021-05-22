@@ -13,6 +13,8 @@ public class Hello {
 		john.speak();
 		john.message();
 		
+		john.speak();
+		
 
 	}
 
